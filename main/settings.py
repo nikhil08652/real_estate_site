@@ -1,6 +1,4 @@
 import os
-from main.imp import SECRET_KEY_VALUE, DATABASES_VALUE, EMAIL_HOST_VALUE, EMAIL_PORT_VALUE, EMAIL_HOST_USER_VALUE, EMAIL_HOST_PASSWORD_VALUE, EMAIL_USE_TLS_VALUE
-
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
